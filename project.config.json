@@ -1,0 +1,11 @@
+{
+  "setting": {
+    "urlCheck": true,
+    "es6": true,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true
+  },
+  "appid": "cli_a1b2b0d08ff89013",
+  "projectname": "MiniProgramFeishu"
+}
